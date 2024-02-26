@@ -12,10 +12,10 @@ The information says that it helps us to measure the severity of the problem and
 
 Team Size : 4
 
-Team Leader : Yuwaraj T K
+Team Leader : Nisha R
 
-Team member : Shiek Asif Ahmed
+Team member : Mythili M
 
-Team member : Manikandan A
+Team member : Malini S
 
-Team member : Pranish .S
+Team member : Naveena D
